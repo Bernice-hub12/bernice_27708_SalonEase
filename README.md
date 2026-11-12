@@ -100,7 +100,7 @@ Fresha. (2026, February 2). *The hidden cost of cancellations: How no-shows are 
 
 Fresha. (n.d.). *Fresha: Booking platform for salons and spas* . https://www.fresha.com
 
-frederickferguson. (n.d.). *Hair Salon No-Show Dataset* [Data set]. Kaggle. [paste Kaggle URL]
+frederickferguson. (n.d.). *Hair Salon No-Show Dataset*. Kaggle. https://www.kaggle.com/datasets/frederickferguson/hair-salon-no-show-data-set?
 
 Lim, K. H., & Mat Nawi, R. (2023). Development of a web-based application to enhance salon management for L Six Hair Studio. *Applied Information Technology and Computer Science, 4*(2), 1768–1786. https://doi.org/10.30880/aitcs.2023.04.02.099
 
