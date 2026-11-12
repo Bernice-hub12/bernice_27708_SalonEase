@@ -8,14 +8,14 @@ Raw data for SalonEase. Files here are kept **untouched**. Cleaned and normalize
 |---|---|
 | Name | Hair Salon No-Show Dataset (wrangled version) |
 | Platform / author | Kaggle, frederickferguson |
-| Link | [paste the Kaggle URL from your browser] |
+| Link | https://www.kaggle.com/datasets/frederickferguson/hair-salon-no-show-data-set? |
 | Description | Appointment data from a hair salon in Toronto, March to July 2018, shared with the owner's permission (salon name withheld), according to the dataset description. Each row is one booking with details of the client's previous visit and whether the client did not show up. |
 | File in this folder | `hair_salon_no_show_wrangled_df.csv` |
 | Rows | 1,952 (bookings) |
 | Columns | 22 (the first column is an unnamed row index) |
 | No-shows | 224 of 1,952 bookings (11.5%) |
-| Licence | [read it on the Kaggle page and paste it here; it must allow educational use] |
-| Date downloaded | [date] |
+| Licence | CC0: Public Domain |
+| Date downloaded | November 11, 2026 |
 
 ## Column list
 
